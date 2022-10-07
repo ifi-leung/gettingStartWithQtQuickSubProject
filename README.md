@@ -1,0 +1,2 @@
+# gettingStartWithQtQuickSubProject
+as title description
